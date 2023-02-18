@@ -2,10 +2,10 @@
 
 Cipher algorithms in Golang
 
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/JuneKimDev/cipher)](https://pkg.go.dev/github.com/JuneKimDev/cipher)
-[![Go Report Card](https://goreportcard.com/badge/github.com/JuneKimDev/cipher)](https://goreportcard.com/report/github.com/JuneKimDev/cipher)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/JuneKimDev/cipher)
-![GitHub](https://img.shields.io/github/license/JuneKimDev/cipher)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/junekimdev/cipher)](https://pkg.go.dev/github.com/junekimdev/cipher)
+[![Go Report Card](https://goreportcard.com/badge/github.com/junekimdev/cipher)](https://goreportcard.com/report/github.com/junekimdev/cipher)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/junekimdev/cipher)
+![GitHub](https://img.shields.io/github/license/junekimdev/cipher)
 
 ---
 
@@ -27,7 +27,7 @@ Note: Rotate password/salt pair regularly
 go get it (pun intended :smile_cat:)
 
 ```shell
-go get github.com/JuneKimDev/cipher
+go get github.com/junekimdev/cipher
 ```
 
 ## Usage
@@ -38,7 +38,7 @@ package main
 import (
   "log"
 
-  "github.com/JuneKimDev/cipher"
+  "github.com/junekimdev/cipher"
 )
 
 
